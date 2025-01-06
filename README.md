@@ -1,5 +1,4 @@
 
-
 # Business Card App (Compose Quadrant)
 
 This Android application demonstrates the usage of Jetpack Compose to create a visually appealing business card layout. The app displays a user's profile, including a photo, name, profession, and contact details (phone, social media, and email).
@@ -13,7 +12,7 @@ This Android application demonstrates the usage of Jetpack Compose to create a v
 
 ## Screenshots:
 
-![Business Card Screenshot](images/screenshot.png) *(Add your actual screenshot here)*
+![Business Card Screenshot](https://github.com/suyogshejal2004/compose_quadrant/blob/master/compose%20quadrant.png)
 
 ## Prerequisites:
 Before running this project, ensure that you have the following installed:
@@ -24,7 +23,7 @@ Before running this project, ensure that you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/compose-quadrant.git
+   git clone https://github.com/suyogshejal2004/compose_quadrant.git
    ```
 
 2. **Open the project in Android Studio.**
@@ -63,6 +62,10 @@ You can easily change the content, colors, and layout:
 - **Modify text**: Edit the `text` fields to display your details.
 - **Change colors**: Customize the colors in the `background()`, `textStyle()`, and other UI elements.
 
+## Reference Assignment:
+
+This project is based on the **Business Card** app tutorial from the [Android Developer Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-business-card?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-business-card#0), which teaches how to create a simple business card using Jetpack Compose.
+
 ## Contributing:
 1. Fork this repository.
 2. Create a new branch for your feature or bug fix.
@@ -74,5 +77,3 @@ You can easily change the content, colors, and layout:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-
